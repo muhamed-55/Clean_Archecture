@@ -1,6 +1,7 @@
 # number_trivia
 
 A new Flutter project.
+Clean Architecture
 
 ## Getting Started
 
